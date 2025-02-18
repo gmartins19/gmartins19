@@ -32,6 +32,6 @@ Ferramentas: Git, GitHub, Docker<br>
 Contato:<br>
  <ul>
       <li><a href="https://www.instagram.com/gmartinscrvg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></li>
-      <li><a href="www.linkedin.com/in/gabriel-martins-9a6305321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></li>
+      <li><a href="https://www.linkedin.com/in/gabriel-martins-9a6305321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></li>
       <li><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> | gabrielc.martins96@gmail.com</li>
   </ul>
